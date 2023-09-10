@@ -2,16 +2,16 @@
 
 The nineteenth session of the LSSTC DSFP was hosted by Drexel University in September 2023 and the curriculum covered Machine Learning. 
 
-The guest instructors for the S19 were: 
-Viviana Acquaviva [:octocat:](https://github.com/vacquaviva)
-John Wu [:octocat:](https://github.com/jwuphysics)
-Niharika Sravan [:octocat:](https://github.com/niharika-sravan)
-Vicki Toy-Edens [:octocat:]
+The guest instructors for the S19 were:  
+Viviana Acquaviva [:octocat:](https://github.com/vacquaviva)  
+John Wu [:octocat:](https://github.com/jwuphysics)  
+Niharika Sravan [:octocat:](https://github.com/niharika-sravan)  
+Vicki Toy-Edens [:octocat:]  
 
-Additional lectures were given by the DSFP leadership team: 
-Bryan Scott [:octocat:](https://github.com/bscot)
-Adam Miller [:octocat:](https://github.com/adamamiller)  
-Lucianne Walkowicz [:octocat:](https://github.com/lmwalkowicz)
+Additional lectures were given by the DSFP leadership team:  
+Bryan Scott [:octocat:](https://github.com/bscot)  
+Adam Miller [:octocat:](https://github.com/adamamiller)   
+Lucianne Walkowicz [:octocat:](https://github.com/lmwalkowicz)  
 
 # Schedule
 
@@ -33,7 +33,7 @@ Saturday, Sep 9, 2023
 * 12:15 PM - 12:30 PM Goals of the DSFP; B. Scott
 * 12:30 PM - 01:30 PM LUNCH (provided) & Discussion of the Code of Conduct; B. Scott
 * 01:30 PM - 02:45 PM [Probability and Data](./day0/ProbabilityAndData.ipynb); A. Miller [Solutions](./day0/ProbabilityAndDataSolutions.ipynb)
-* 02:45 PM - 04:00 PM Introduction to Bayesian Statistics; B. Scott
+* 02:45 PM - 04:00 PM [Introduction to Bayesian Statistics](./day0/Introduction%20to%20Bayesian%20Reasoning%20(Session%2019%20Orientation)%20No%20Solutions.ipynb); B. Scott
 * 04:00 PM - ??? Break
  
 ## Day 1 – An Introduction to Machine Learning & Unsupervised Learning 
